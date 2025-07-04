@@ -1,5 +1,5 @@
 import React from 'react'
-import "./FilterComponents.scss"
+import "./FilterComponent.scss"
 import { IoSearchOutline } from "react-icons/io5";
 import { RxCross2 } from "react-icons/rx";
 const FilterComponent:React.FC = () => {
